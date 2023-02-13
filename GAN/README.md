@@ -1,2 +1,2 @@
 # GAN
-These are basic GAN pytorch version for future reference.
+These are basic GAN pytorch versions for future reference.
